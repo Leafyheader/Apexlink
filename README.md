@@ -43,7 +43,7 @@ Installation
 
     bash
 
-    git clone https://github.com/yourusername/pos-software.git
+    git clone https://github.com/Leafyheader/Apexlink-POS.git
 
     Compile and run the application using your preferred Java IDE or command line.
 
